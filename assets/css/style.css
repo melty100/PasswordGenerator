@@ -1,0 +1,8 @@
+#password-display {
+    border-width: 10px;
+    border-color: gray;
+    border-style: dashed;
+    padding: 10px;
+    width: auto;
+    height: 200px;
+}
